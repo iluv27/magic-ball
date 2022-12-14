@@ -14,6 +14,8 @@ class MagicBall extends StatefulWidget {
   State<MagicBall> createState() => _MagicBallState();
 }
 
+//This is an override
+
 class _MagicBallState extends State<MagicBall> {
   int magicNumber = 1;
   @override
